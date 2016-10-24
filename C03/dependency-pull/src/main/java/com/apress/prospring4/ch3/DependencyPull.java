@@ -10,5 +10,7 @@ public class DependencyPull {
 
         MessageRenderer mr = ctx.getBean("renderer", MessageRenderer.class);
         mr.render();
+
+
     }
 }
