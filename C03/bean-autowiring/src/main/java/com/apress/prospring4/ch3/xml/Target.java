@@ -33,6 +33,9 @@ public class Target {
     public void setBar(Bar bar) {
         this.bar = bar;
         System.out.println("Property bar set");
+
+
+
     }
 
     public static void main(String[] args) {
